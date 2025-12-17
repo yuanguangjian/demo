@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "mobile": "19016482945",
+    "password": "fl123456789",
+    "destroyFlag": 0
+  },
+  "test": {
+    "mobile": "15338849809",
+    "password": "Aa123456",
+    "destroyFlag": 0
+  },
+  "dvt": {
+    "mobile": "15338849809",
+    "password": "Aa123456",
+    "destroyFlag": 0
+  },
+  "ces": {
+    "email": "1007503475@qq.com",
+    "password": "Aa123456",
+    "destroyFlag": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "host": "rm-wz9h6s898dole0ubjoo.mysql.rds.aliyuncs.com",
+    "user": "ugreen_dev",
+    "password": "AXwer!@#$!$@123",
+    "port": 3306
+  },
+  "test": {
+    "host": "rm-wz9h6s898dole0ubjoo.mysql.rds.aliyuncs.com",
+    "user": "ugreen_test",
+    "password": "AXwer!@#$!$@123",
+    "port": 3306
+  },
+  "dvt": {
+    "host": "rm-wz9h6s898dole0ubjoo.mysql.rds.aliyuncs.com",
+    "user": "ugreen_dvt",
+    "password": "VuX771t!iNniH9DB",
+    "port": 3306
+  },
+    "ces": {
+    "host": "rm-rj99e780rh88e5vu05o.mysql.rds-aliyun-america.rds.aliyuncs.com",
+    "user": "ugreen_ces",
+    "password": "3%^RKwf#%f@5388!",
+    "port": 3306
+  }
+}
