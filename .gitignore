@@ -9,3 +9,20 @@ uwsgi_temp/
 .idea/
 *.log
 .venv/
+
+# Python 编译产物
+__pycache__/
+*.pyc
+
+# 本地配置与密钥（请勿入库）
+.env
+env.json
+mysql.json
+account.json
+sn.json
+key.json
+google.json
+*.p8
+users.json
+devices_status.csv
+devices_status1.csv

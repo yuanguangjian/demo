@@ -1,0 +1,27 @@
+# HTTP / WebSocket
+requests>=2.31
+aiohttp>=3.9
+aiofiles>=23.2
+websockets>=12.0
+
+# 加密 / JWT
+pycryptodome>=3.20
+cryptography>=42.0
+PyJWT>=2.8
+
+# 存储 / 消息
+mysql-connector-python>=8.3
+redis>=5.0
+confluent-kafka>=2.3
+kafka-python>=2.0
+gmqtt>=0.6.14
+paho-mqtt>=1.6
+
+# 云服务
+oss2>=2.18
+firebase-admin>=6.4
+openai>=1.12
+
+# 工具
+openpyxl>=3.1
+tqdm>=4.66
