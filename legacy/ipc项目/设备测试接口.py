@@ -1,8 +1,10 @@
+import _legacy_syspath  # noqa: F401
+
 import json
 
 import requests
 import EccUtil
-import time, sys
+import time
 
 sn = ""
 mac = sn

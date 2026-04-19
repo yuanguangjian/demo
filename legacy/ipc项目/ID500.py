@@ -1,3 +1,5 @@
+import _legacy_syspath  # noqa: F401
+
 import json
 import requests
 import EccUtil

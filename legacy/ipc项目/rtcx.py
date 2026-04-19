@@ -1,7 +1,9 @@
+import _legacy_syspath  # noqa: F401
+
 import uuid
 import rtcxUtil
 import mysqlUtil as mysql
-from ipc项目.AESUtil import AESUtil
+from AESUtil import AESUtil
 
 baseData = {
     "id": str(uuid.uuid4()),

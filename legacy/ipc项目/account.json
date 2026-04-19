@@ -1,0 +1,63 @@
+{
+    "15338849809": {
+        "mobile": "15338849809",
+        "password": "Aa123456",
+        "destroyFlag": 0
+    },
+    "13588755415": {
+        "mobile": "13588755415",
+        "password": "Test1234",
+        "destroyFlag": 0
+    },
+    "15026300": {
+        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxNTAyNjMwMCIsIlVTRVJfQ09VTlRSWV9DT0RFIjoiQ04iLCJqdGkiOiIxNTAyNjMwMCIsImlhdCI6MTc2Mjg1MjQyNCwiZXhwIjoxNzYyODUzNjI0fQ.399i-uPqcZ8BaDwZVqY2E8vZ5s6ZVX0WGPkwNuvjOWg",
+        "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxNTAyNjMwMCIsIlVTRVJfQ09VTlRSWV9DT0RFIjoiQ04iLCJqdGkiOiIxNTAyNjMwMCIsImlhdCI6MTc2Mjg1MjQyNCwiZXhwIjoxNzY0MTQ4NDI0fQ.D6DAkWtIl5mlkLwpbLPHWmxtFXPnOYvKlBJXgAPcq2M",
+        "userInfo": {
+            "userId": "15026300",
+            "nickName": "\u5f88\u56f0",
+            "realName": "",
+            "sex": "S",
+            "birthDate": "",
+            "countryCode": "CN",
+            "pic": "",
+            "sign": "",
+            "remark": null,
+            "source": 1,
+            "account": "153****9809"
+        }
+    },
+    "1268000": {
+        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxMjY4MDAwIiwiVVNFUl9DT1VOVFJZX0NPREUiOiJDTiIsImp0aSI6IjEyNjgwMDAiLCJpYXQiOjE3NjMwODI3MzYsImV4cCI6MTc2MzIwMjczNn0.8xds39UwjSuaRTg7QQaLKpEl0ai0YoSjS0uWN3u7jaE",
+        "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxMjY4MDAwIiwiVVNFUl9DT1VOVFJZX0NPREUiOiJDTiIsImp0aSI6IjEyNjgwMDAiLCJpYXQiOjE3NjMwODI3MzYsImV4cCI6MTc2NDM3ODczNn0.Au_rL0pUfDTG6qxcX5RidNOTNCqtHGP0qfQsUXA7v54",
+        "userInfo": {
+            "userId": "1268000",
+            "nickName": "\u8881\u5c0f\u8d31\uff01\uff01",
+            "realName": "",
+            "sex": "S",
+            "birthDate": "",
+            "countryCode": "CN",
+            "pic": "https://dpttest.ugreeniot.com/dev/upload/files/202510/22/2c5ba2e5506b4cb6a8c7f39b0dac3ac6.jpg",
+            "sign": "",
+            "remark": null,
+            "source": 1,
+            "account": "153****9809"
+        }
+    },
+    "15029935": {
+        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxNTAyOTkzNSIsIlVTRVJfQ09VTlRSWV9DT0RFIjoiQ04iLCJqdGkiOiIxNTAyOTkzNSIsImlhdCI6MTc2Mjg1NjQzOCwiZXhwIjoxNzYyODU3NjM4fQ.VWjK3YsGxtvjZMmRJIEJkrl4jAnQm6HX2IQ2QrZMu4k",
+        "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJXZWIiLCJzdWIiOiJVR1JFRU4tRFBUIiwiaXNzIjoiVUdSRUVOLURQVCIsIkxPR0lOX1VTRVJfSUQiOiIxNTAyOTkzNSIsIlVTRVJfQ09VTlRSWV9DT0RFIjoiQ04iLCJqdGkiOiIxNTAyOTkzNSIsImlhdCI6MTc2Mjg1NjQzOCwiZXhwIjoxNzY0MTUyNDM4fQ.C0rZ6jRsi4QYqvxtSwRm4ruL0HrPhUATwfYBcd52goQ",
+        "userInfo": {
+            "userId": "15029935",
+            "nickName": "",
+            "realName": "",
+            "sex": "S",
+            "birthDate": "",
+            "countryCode": "CN",
+            "pic": "",
+            "sign": "",
+            "remark": null,
+            "source": 1,
+            "account": "135****5415"
+        }
+    }
+}

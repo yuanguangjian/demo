@@ -1,0 +1,40 @@
+{
+    "dev": {
+        "Camera001_I50000U57Q200005": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgev7IDqcYMJc+05/kWNGWxxRySiYO4LJLEi7A4lm9xCqhRANCAARFnJcW3DpuQrkpMWF1zxpcB87Yh7wyKiuv4JIWzAoTkGoZ4Kj2MUiQyzk5aAHe0zghGZISKTFo+49krB8rkL8i",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAERZyXFtw6bkK5KTFhdc8aXAfO2Ie8Miorr+CSFswKE5BqGeCo9jFIkMs5OWgB3tM4IRmSEikxaPuPZKwfK5C/Ig==",
+            "version": "1.0.1"
+        }
+    },
+    "test": {},
+    "dvt": {},
+    "ces": {
+        "Camera001_I50000U57Q200005": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgrA+TwuOtzJZj+bpgkiYm+Z+4YEeKKkQbFbyi8VN87/ChRANCAARbX5ZAxLc30k7uP9I9FfKUcjEaOzRtqiY+Mip59aTOFVWfT+/8GVxZ8kJqCZP2t4StRl9JSqd9p3L6Dd9c7txw",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEW1+WQMS3N9JO7j/SPRXylHIxGjs0baomPjIqefWkzhVVn0/v/BlcWfJCagmT9reErUZfSUqnfady+g3fXO7ccA==",
+            "version": "1.0.0"
+        },
+        "010001_I50000U58Q300098": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKgu7Tc+rs3UA3HmgbEAuwruH3lQl77D/Po/vSlPCAq+hRANCAATUJXxctCAdtHYoiUXUazCVMsIOVY4/LC8ZFeRZ6MsQM0AF8zXhgbQfUGH6Qm5IfrAoNTlKpfKU7GEH3oDiSZZ6",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1CV8XLQgHbR2KIlF1GswlTLCDlWOPywvGRXkWejLEDNABfM14YG0H1Bh+kJuSH6wKDU5SqXylOxhB96A4kmWeg==",
+            "version": "1.0.0"
+        }
+    },
+    "device": {
+        "00000_I50000U57Q200013": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgf93sj0N2RI9o0YGyN9W5jd62C1aoG+IgQGmjYH3l/ZyhRANCAAR4ySa2Y8Ne7y0pK0LvSg8RHXf3BHhYIugxo9cCs1pVw5xbSPENS0gSRm8/0dQd4vEioVO78jow9KWpzi42S5Xm",
+            "version": "1.0.2",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeMkmtmPDXu8tKStC70oPER139wR4WCLoMaPXArNaVcOcW0jxDUtIEkZvP9HUHeLxIqFTu/I6MPSlqc4uNkuV5g=="
+        },
+        "00000_I50000U57Q200016": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgClZKO/lAKaReXxSzQdnouK3ku1Ar1vDWGSElp+cLK9ahRANCAAQLwxD+Me1LGhrRY4Y7/SR/7rP9AiDknIUmsv71wvvlJHvfkKapv4+XwVvx9hqnrWUwg9K+n5ziF6hQCgm4qY0W",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC8MQ/jHtSxoa0WOGO/0kf+6z/QIg5JyFJrL+9cL75SR735Cmqb+Pl8Fb8fYap61lMIPSvp+c4heoUAoJuKmNFg==",
+            "version": "1.0.0"
+        },
+        "00000_I50000U57Q200017": {
+            "privateKey": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgjTBQPq4Juy7y8zl3WIzsniOa+eeRRtAl472V+FLl8yqhRANCAASD7Nv1eCV3CPPQC/6ltYrX1PRHEHziDfMR9NpRGf6zRapXuv+QctGrj85C+VexBp8jNG8t6pG9EuaFdVLDQlGk",
+            "version": "1.0.6",
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEg+zb9Xgldwjz0Av+pbWK19T0RxB84g3zEfTaURn+s0WqV7r/kHLRq4/OQvlXsQafIzRvLeqRvRLmhXVSw0JRpA=="
+        }
+    }
+}
