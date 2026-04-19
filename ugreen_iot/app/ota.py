@@ -1,6 +1,8 @@
 """OTA 检测升级（合并 `utils/ipc_ota.py` 与 `utils/ugreen_software.py`）。"""
 from __future__ import annotations
 
+import _demo_syspath  # noqa: F401
+
 try:
     import _bootstrap  # noqa: F401
 except ImportError:
@@ -10,7 +12,6 @@ from typing import Any, Dict, Optional
 
 from common.config import env_base_url
 from common.http_client import HttpClient
-
 
 class Ota:
     def __init__(self, env: str) -> None:
@@ -42,4 +43,28 @@ class Ota:
 
 
 if __name__ == "__main__":
-    Ota("ces").check("010001")
+    import argparse
+
+    parser = argparse.ArgumentParser(description="OTA 检测升级")
+    parser.add_argument(
+        "--env",
+        default="test",
+        help="env.json 中的环境名（如 dev/test/ces）",
+    )
+    parser.add_argument(
+        "serial",
+        nargs="?",
+        default="010001",
+        help="设备序列号",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="只校验 env.json 并打印 base URL，不发起 HTTP",
+    )
+    args = parser.parse_args()
+    ota = Ota(args.env)
+    if args.dry_run:
+        print("env OK:", args.env, "base_url =", ota.client.base_url)
+    else:
+        print(ota.check(args.serial))

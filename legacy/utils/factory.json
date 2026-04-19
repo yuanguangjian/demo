@@ -1,0 +1,26 @@
+{
+  "local": {
+    "AppId": "HaxUIUiF1wVJXEK2OQGJHQ==",
+    "AppSecret": "MEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBWKiQrr6JWXCBcedM0BFD1OCdEhv+YPw3y0bbv05NY9g=="
+  },
+  "device": {
+    "AppId": "HaxUIUiF1wVJXEK2OQGJHQ==",
+    "AppSecret": "MEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBWKiQrr6JWXCBcedM0BFD1OCdEhv+YPw3y0bbv05NY9g=="
+  },
+  "dev": {
+    "AppId": "HaxUIUiF1wVJXEK2OQGJHQ==",
+    "AppSecret": "MEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBWKiQrr6JWXCBcedM0BFD1OCdEhv+YPw3y0bbv05NY9g=="
+  },
+  "test": {
+    "AppId": "15338849809",
+    "AppSecret": "Aa123456"
+  },
+  "dvt": {
+    "AppId": "15338849809",
+    "AppSecret": "Aa123456"
+  },
+  "ces": {
+    "AppId": "/2BdL9LqDesERyarFtmM3Q==",
+    "AppSecret": "MEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCBPtG5umEw7i0okt744WmAYx3PDndaHueqYPJJZTbD1EQ=="
+  }
+}

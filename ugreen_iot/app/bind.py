@@ -5,6 +5,8 @@
 """
 from __future__ import annotations
 
+import _demo_syspath  # noqa: F401
+
 try:
     import _bootstrap  # noqa: F401
 except ImportError:
