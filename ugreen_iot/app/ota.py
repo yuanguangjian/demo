@@ -43,28 +43,9 @@ class Ota:
 
 
 if __name__ == "__main__":
-    import argparse
+    # 需要试跑时改下面两行，再执行本文件。
+    env = "test"
+    serial_no = "010001"
 
-    parser = argparse.ArgumentParser(description="OTA 检测升级")
-    parser.add_argument(
-        "--env",
-        default="test",
-        help="env.json 中的环境名（如 dev/test/ces）",
-    )
-    parser.add_argument(
-        "serial",
-        nargs="?",
-        default="010001",
-        help="设备序列号",
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="只校验 env.json 并打印 base URL，不发起 HTTP",
-    )
-    args = parser.parse_args()
-    ota = Ota(args.env)
-    if args.dry_run:
-        print("env OK:", args.env, "base_url =", ota.client.base_url)
-    else:
-        print(ota.check(args.serial))
+    ota = Ota(env)
+    print(ota.check(serial_no))
